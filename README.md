@@ -4,16 +4,16 @@ anonymous---匿名的    associated---有关联的   mirror---镜子（景象网
 
 
 
-实现django cms demo
-1.登陆网址https://github.com/teebook/bookcms
-2.进入这个网址 https://www.django-cms.org/en/
-3.找到Get started 这个模块并在终端/命令行复止执行下面的代码
-$ python3 -m venv .venv         //调用python的解释器（-m）已模块的方式运行命令 创建一个虚拟环境 目录名称为venv
-$ source .venv/bin/activate     //用于激活当前目录下的.venv文件夹中的python虚拟环境
-$ pip install django-cms        //安装django cms 到你的python中
-$ djangocms mysite              //创建一个新的目录
-$ cd mysite                     //进入这个目录  
-$ python -m manage runserver    //启动django服务器在网站上测试
+#实现django cms demo
+#1.登陆网址https://github.com/teebook/bookcms
+#2.进入这个网址 https://www.django-cms.org/en/
+#3.找到Get started 这个模块并在终端/命令行复止执行下面的代码
+#$ python3 -m venv .venv         //调用python的解释器（-m）已模块的方式运行命令 创建一个虚拟环境 目录名称为venv
+#$ source .venv/bin/activate     //用于激活当前目录下的.venv文件夹中的python虚拟环境
+#$ pip install django-cms        //安装django cms 到你的python中
+#$ djangocms mysite              //创建一个新的目录
+#$ cd mysite                     //进入这个目录  
+#$ python -m manage runserver    //启动django服务器在网站上测试
 
 
 
