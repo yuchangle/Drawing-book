@@ -2,7 +2,8 @@
 ### repository---仓库                commitchanges---提交修改           space---空间          preview---预览    
 ### quickly get started---快速上手    mechine---机器     command---命令      origin---起源   remote---远程连接   
 ### already exists---已经存在      failed---失败的     ref---判断   anonymous---匿名的    associated---有关联的   
-### mirror---镜子（景象网点）   receive---接收  permission---权限许可  denied---拒绝否认。  
+### mirror---镜子（景象网点）   receive---接收   copilot---助手    enterprise---企业     status---状态
+### organization---组织     sponsor---赞助者    gist---依据、
 
 
 
