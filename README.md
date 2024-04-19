@@ -3,7 +3,7 @@
 ### quickly get started---快速上手    mechine---机器     command---命令      origin---起源   remote---远程连接   
 ### already exists---已经存在      failed---失败的     ref---判断   anonymous---匿名的    associated---有关联的   
 ### mirror---镜子（景象网点）   receive---接收   copilot---助手    enterprise---企业     status---状态
-### organization---组织     sponsor---赞助者    gist---依据、
+### organization---组织     sponsor---赞助者    gist---依据、  connect---连接    refused---拒绝
 
 
 
@@ -32,4 +32,12 @@
 ### 9.将代码添加到本地仓库中（git add.）提交并更改（git commit -m "Initial commit"）
 ### 10.将本地更改推送到GitHub上（git push -u origin main） 
 ### 备注：ssh代理（eval $(ssh-agent -s)）(ssh-add ~/.ssh/id_rsa) 
+
+# nginx
+### /bin/bash -c "$(curl -fsSL https://gitee.com/ineo6/homebrew-install/raw/master/install.sh)" 下载homebrew
+### brew update 更新homebrew
+### brew install nginx 安装nginx
+### brew services start nginx 启动nginx 访问http://localhost:8080/ 可以看到欢迎界面
+
+
 
