@@ -6,7 +6,7 @@
 
 
 
-### 实现django cms demo
+# 实现django cms demo
 ### 1.登陆网址https://github.com/teebook/bookcms
 ### 2.进入这个网址 https://www.django-cms.org/en/
 ### 3.找到Get started 这个模块并在终端/命令行复止执行下面的代码
@@ -18,23 +18,5 @@
 ### $ python -m manage runserver    //启动django服务器在网站上测试
 
 
+# 终端中的代码提交到GitHub上
 
-
-
-
-
-
-
-
-
-
-
-
-
-终端中的代码提交到GitHub上
-1）git init //初始化一个本地仓库
-2）git add . //添加文件到仓库  .代表当前目录及其所有子目录中的所有文件。如果你想添加特定的文件或文件夹，可以使用git add <file>或git add <folder>
-3）git commit -m 。。。。//-m后面跟着的是你对这次提交的描述信息
-4）在GitHub上创建一个新的仓库
-5）git remote add origin URL //url是仓库的url
-6）git push -u origin main //推送到远程仓库
