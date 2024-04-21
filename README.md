@@ -3,7 +3,8 @@
 ### quickly get started---快速上手    mechine---机器     command---命令      origin---起源   remote---远程连接   
 ### already exists---已经存在      failed---失败的     ref---判断   anonymous---匿名的    associated---有关联的   
 ### mirror---镜子（景象网点）   receive---接收   copilot---助手    enterprise---企业     status---状态
-### organization---组织     sponsor---赞助者    gist---依据、  connect---连接    refused---拒绝
+### organization---组织     sponsor---赞助者    gist---依据、  connect---连接    refused---拒绝 authenticity---真实性
+### establish---建立 fingerprint---指纹  verification---证实  
 
 
 
