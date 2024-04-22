@@ -40,5 +40,19 @@
 ### brew install nginx 安装nginx
 ### brew services start nginx 启动nginx 访问http://localhost:8080/ 可以看到欢迎界面
 
+# 使用terminal与服务器连接
+### 使用ssh username@server_ip -p port——number
+### 成功之后输入服务器密码
+### 断开链接 exit
+### 如果服务器上没有安装UTF-8语言支持使用创建一个新的本地环境 sudo localedef -v -c -i en_US -f UTF-8 en_US.UTF-8
+### 设置环境变量 sudo vim /etc/environment   在文件中添加LANG=en——US.UTF-8     LC_AFLL=en——US.UTF-8
+### 重新加载 source /etc/environment
+### 验证 使用 locale
+
+# vim操作命令
+### ：wq  保存并退出
+###  esc 键退出编辑
+###  ：q！ 退出不保存
+
 
 
