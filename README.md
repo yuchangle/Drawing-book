@@ -4,6 +4,7 @@
 ## 构建项目 npm run build 找不到npm
 ## 之后的步骤 配置Nginx：根据你的应用配置Nginx，设置正确的root和index指令，以及可能的代理设置
 ## 重新启动
+## 在这个过程中什么时候需要把 nginx启动 链接服务器 用不用链接GitHub 
 
 
 # Process
