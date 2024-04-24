@@ -1,10 +1,18 @@
+# outstanding problems
+## setlocale: LC_ALL: cannot change locale (enUS.UTF-8)
+## 通过nginx把GitHub上的代码部署到服务器 克隆仓库到指定目录/var/www/myapp 目录创建不成功 在什么环境（文件目录）下输入命令
+## 构建项目 npm run build 找不到npm
+## 之后的步骤 配置Nginx：根据你的应用配置Nginx，设置正确的root和index指令，以及可能的代理设置
+## 重新启动
+
+
 # Process
 ### repository---仓库                commitchanges---提交修改           space---空间          preview---预览    
 ### quickly get started---快速上手    mechine---机器     command---命令      origin---起源   remote---远程连接   
 ### already exists---已经存在      failed---失败的     ref---判断   anonymous---匿名的    associated---有关联的   
 ### mirror---镜子（景象网点）   receive---接收   copilot---助手    enterprise---企业     status---状态
 ### organization---组织     sponsor---赞助者    gist---依据、  connect---连接    refused---拒绝 authenticity---真实性
-### establish---建立 fingerprint---指纹  verification---证实  
+### establish---建立 fingerprint---指纹  verification---证实   correct---正确的 
 
 
 
